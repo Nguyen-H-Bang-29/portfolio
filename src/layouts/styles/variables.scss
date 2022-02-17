@@ -1,0 +1,10 @@
+$prim-color: #FE5F55;
+$acc-color: #E63462;
+$light-text-color: white;
+$gradient: linear-gradient(to bottom, $prim-color, $acc-color);
+$reverse-gradient: linear-gradient(to top, $prim-color, $acc-color);
+
+$side-bar--icon-font-size: 1.5rem;
+$side-bar--width: calc(#{$side-bar--icon-font-size} * 2 + 1rem);
+
+$main-font-family: 'Zen Kaku Gothic Antique', sans-serif;
